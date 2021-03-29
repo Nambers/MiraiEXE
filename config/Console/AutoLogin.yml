@@ -11,3 +11,4 @@ accounts:
     # "device": "deviceInfo.json"
     configuration: 
       protocol: ANDROID_PHONE
+      device: deviceInfo.json
